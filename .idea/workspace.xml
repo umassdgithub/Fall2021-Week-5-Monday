@@ -19,27 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="152cd34e-6f4f-44fb-ab5e-a321477d4099" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.4/card_game_symbols.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.6/Styling_plot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example_Mon 5.6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Mon 5.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Mon 5.1/data_sample.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Mon 5.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/yahoo_finance.csv" afterDir="false" />
+    <list default="true" id="152cd34e-6f4f-44fb-ab5e-a321477d4099" name="Default Changelist" comment="Week 5 Monday">
+      <change afterPath="$PROJECT_DIR$/step_by_step/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Mon 5.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.6/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +55,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Exercise_Mon 5.1" />
       <recent name="$PROJECT_DIR$/Example_Mon 5.6" />
@@ -89,8 +75,16 @@
       <option name="presentableId" value="Default" />
       <updated>1601067201984</updated>
       <workItem from="1601067203053" duration="657000" />
-      <workItem from="1601256698685" duration="19596000" />
+      <workItem from="1601256698685" duration="22537000" />
     </task>
+    <task id="LOCAL-00001" summary="Week 5 Monday">
+      <created>1601304681576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601304681576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,11 +102,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 5 Monday" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 5 Monday" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="15" y="-938" key="SettingsEditor" timestamp="1601068601077">
       <screen x="-144" y="-1027" width="1680" height="1027" />
     </state>
     <state x="15" y="-938" key="SettingsEditor/-144.-1027.1680.1027/0.23.1440.819@-144.-1027.1680.1027" timestamp="1601068601077" />
+    <state x="168" y="-772" key="Vcs.Push.Dialog.v2" timestamp="1601304686484">
+      <screen x="-144" y="-1027" width="1680" height="1027" />
+    </state>
+    <state x="168" y="-772" key="Vcs.Push.Dialog.v2/-144.-1027.1680.1027/0.23.1440.819@-144.-1027.1680.1027" timestamp="1601304686484" />
     <state x="0" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601259263446">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
