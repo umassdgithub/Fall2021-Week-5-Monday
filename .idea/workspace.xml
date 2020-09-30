@@ -20,9 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="152cd34e-6f4f-44fb-ab5e-a321477d4099" name="Default Changelist" comment="Week 5 Monday">
-      <change afterPath="$PROJECT_DIR$/step_by_step/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/Styling_plot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/data_sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step_by_step/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601067201984</updated>
       <workItem from="1601067203053" duration="657000" />
-      <workItem from="1601256698685" duration="22537000" />
+      <workItem from="1601256698685" duration="22616000" />
+      <workItem from="1601419433531" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="Week 5 Monday">
       <created>1601304681576</created>
