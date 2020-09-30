@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="152cd34e-6f4f-44fb-ab5e-a321477d4099" name="Default Changelist" comment="Week 5 Monday">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/Styling_plot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/data_sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_Mon 5.1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/step_by_step/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,7 @@
       <updated>1601067201984</updated>
       <workItem from="1601067203053" duration="657000" />
       <workItem from="1601256698685" duration="22616000" />
-      <workItem from="1601419433531" duration="2457000" />
+      <workItem from="1601419433531" duration="3126000" />
     </task>
     <task id="LOCAL-00001" summary="Week 5 Monday">
       <created>1601304681576</created>
@@ -91,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601304681576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Week 5 Monday">
+      <created>1601432093113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601432093113</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,14 +117,19 @@
       <screen x="-144" y="-1027" width="1680" height="1027" />
     </state>
     <state x="15" y="-938" key="SettingsEditor/-144.-1027.1680.1027/0.23.1440.819@-144.-1027.1680.1027" timestamp="1601068601077" />
-    <state x="168" y="-772" key="Vcs.Push.Dialog.v2" timestamp="1601304686484">
-      <screen x="-144" y="-1027" width="1680" height="1027" />
+    <state x="312" y="264" key="Vcs.Push.Dialog.v2" timestamp="1601432097101">
+      <screen x="0" y="23" width="1680" height="969" />
     </state>
     <state x="168" y="-772" key="Vcs.Push.Dialog.v2/-144.-1027.1680.1027/0.23.1440.819@-144.-1027.1680.1027" timestamp="1601304686484" />
+    <state x="312" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.969@0.23.1680.969" timestamp="1601432097101" />
     <state x="0" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601259263446">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="0" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.819@0.23.1440.819" timestamp="1601259263446" />
+    <state x="588" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601433289741">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="588" y="381" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.969@0.23.1680.969" timestamp="1601433289741" />
     <state x="28" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1601293420976">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
