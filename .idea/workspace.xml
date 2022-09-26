@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,6 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="152cd34e-6f4f-44fb-ab5e-a321477d4099" name="Default Changelist" comment="Week 5 Monday">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/Styling_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.6/Styling_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example_Mon 5.6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Example_Mon 5.6/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +46,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1i1FTrg3gPjRYfJn6BBiLAx32Ge" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise_Mon 5.1" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -75,6 +89,7 @@
       <workItem from="1601067203053" duration="657000" />
       <workItem from="1601256698685" duration="22616000" />
       <workItem from="1601419433531" duration="3126000" />
+      <workItem from="1664197215516" duration="2426000" />
     </task>
     <task id="LOCAL-00001" summary="Week 5 Monday">
       <created>1601304681576</created>
@@ -106,7 +121,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Week 5 Monday" />

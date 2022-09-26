@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td>
-<textarea id="txtArea1" rows="15" cols="60">
+<textarea id="txtArea1" rows="15" cols="90">
 svg.selectAll('rect')
     .data(myData)
     .enter()
@@ -45,7 +45,7 @@ svg.selectAll('rect')
 </textarea>
             <br>
             <hr>
-            <textarea id="txtArea2" rows="15" cols="60">
+            <textarea id="txtArea2" rows="15" cols="90">
 // calculate max,min X of viewBox
 let viewBox_maxX = d3.select('SVG').attr('viewBox').split(' ')[2]
 let viewBox_minX = d3.select('SVG').attr('viewBox').split(' ')[0]
@@ -56,15 +56,14 @@ let len_min = d3.min(myData, function(d) { return d.len; })
 // linear scale
 let margin = 5
 let lenScale = d3.scaleLinear().domain([0,len_max])
-                                .range([viewBox_minX+margin,viewBox_maxX-2*margin])
+                                .range([0,viewBox_maxX-margin])
 svg.selectAll('rect')
     .data(myData)
-
     .attr('y',function(d){return d.y})
     .attr('height',5)
     .transition()
     .duration(1000)
-    .attr('x',function(d){return d.x+margin})
+    .attr('x',function(d){return d.x})
     .attr('width',function(d){return lenScale(d.len)})
     .style('fill','red')
     .style('stroke-width','.1')
@@ -91,9 +90,13 @@ svg.append('g')
 </table>
 <script>
     let svg = d3.selectAll('svg');
-    let myData =[{x:0,y:5,len:20},{x:0,y:10,len:16},
-        {x:0,y:15,len:16},{x:0,y:20,len:22},
-        {x:0,y:25,len:13},{x:0,y:30,len:8}]
+    let myData =[
+        {x:0,y:5,len:20},
+        {x:0,y:10,len:16},
+        {x:0,y:15,len:16},
+        {x:0,y:20,len:22},
+        {x:0,y:25,len:13},
+        {x:0,y:30,len:8}]
 
     let txtArea1 = document.getElementById('txtArea1');
     eval(txtArea1.value);
